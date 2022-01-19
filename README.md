@@ -1,4 +1,4 @@
-#K-POP Drama Generator
+# K-POP Drama Generator
 
 This program randomly generates a headline about fake K-POP drama.
 
